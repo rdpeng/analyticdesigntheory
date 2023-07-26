@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: "docs"
 
 website:
   title: "theoryofdataanalysis"
@@ -8,6 +9,7 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+
 
 format:
   html:
