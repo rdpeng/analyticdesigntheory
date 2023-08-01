@@ -2,7 +2,7 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "theoryofdataanalysis",
+    "title": "Theory of Data Analysis",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
   },
@@ -12,5 +12,19 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "papers.html",
+    "href": "papers.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Papers\nPeng RD, Chen A, Bridgeford E, Leek JT, Hicks SC (2021). “Diagnosing Data Analytic Problems in the Classroom,” Journal of Statistics and Data Science Education.\nD’Agostino McGowan L, Hicks SC, Peng RD (2022). “Design Principles for Data Analysis,” Journal of Computational and Graphical Statistics.\nPeng RD, Parker HS (2022). “Perspective on Data Science,” Annual Review of Statistics and Its Application. arxiv\nPeng RD, Hicks SC (2021) “Reproducible Research: A Retrospective,” Annual Review of Statistics and Its Application. arxiv\n\n\nBooks\nPeng RD, Matsui EC (2018) The Art of Data Science."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Papers\nPeng RD, Chen A, Bridgeford E, Leek JT, Hicks SC (2021). “Diagnosing Data Analytic Problems in the Classroom,” Journal of Statistics and Data Science Education.\nD’Agostino McGowan L, Hicks SC, Peng RD (2022). “Design Principles for Data Analysis,” Journal of Computational and Graphical Statistics.\nPeng RD, Parker HS (2022). “Perspective on Data Science,” Annual Review of Statistics and Its Application. arxiv\nPeng RD, Hicks SC (2021) “Reproducible Research: A Retrospective,” Annual Review of Statistics and Its Application. arxiv\n\n\nBooks\nPeng RD, Matsui EC (2018) The Art of Data Science."
   }
 ]
