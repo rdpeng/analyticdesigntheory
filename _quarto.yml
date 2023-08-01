@@ -3,12 +3,12 @@ project:
   output-dir: "docs"
 
 website:
-  title: "theoryofdataanalysis"
+  title: "Theory of Data Analysis"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - publications.qmd
 
 
 format:
