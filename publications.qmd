@@ -16,4 +16,10 @@ Peng RD, Hicks SC (2021) "[Reproducible Research: A Retrospective](https://www.a
 
 # Books
 
-Peng RD, Matsui EC (2018) [The Art of Data Science](https://leanpub.com/artofdatascience).
+
+Tiffany Timbers, Trevor Campbell, and Melissa Lee (2023) [Data Science: A First Introduction](https://datasciencebook.ca), Chapman & Hall/CRC Press.
+
+
+Roger D. Peng, Elizabeth C. Matsui (2018) [The Art of Data Science](https://leanpub.com/artofdatascience).
+
+Carrie Wright, Shannon E. Ellis, Stephanie C. Hicks and Roger D. Peng (2021). [Tidyverse Skills for Data Science](http://jhudatascience.org/tidyversecourse/).
