@@ -41,6 +41,7 @@ Carrie Wright, Shannon E. Ellis, Stephanie C. Hicks and Roger D. Peng (2021). [T
 
 [What is a Successful Data Analysis?](https://simplystatistics.org/posts/2018-04-17-what-is-a-successful-data-analysis/)
 
+[The Role of Theory in Data Analysis](https://simplystatistics.org/posts/2018-12-11-the-role-of-theory-in-data-analysis/)
 
 
 
