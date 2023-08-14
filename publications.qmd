@@ -3,11 +3,11 @@ title: "Publications"
 ---
 
 
-# Papers
+## Papers
 
 D'Agostino McGowan L, Hicks SC, Peng RD (2022). "[Design Principles for Data Analysis](https://www.tandfonline.com/doi/full/10.1080/10618600.2022.2104290)," *Journal of Computational and Graphical Statistics*. 
 
-* Winner of 2023 Young Investigator Award from the ASA Section on Teaching of Statistics in the Health Sciences
+* Winner of 2023 [Young Investigator Award](https://tshsblog.wixsite.com/main/single-post/2023-tshs-section-awards) from the ASA Section on Teaching of Statistics in the Health Sciences
 
 Peng RD, Parker HS (2022). "[Perspective on Data Science](https://www.annualreviews.org/doi/full/10.1146/annurev-statistics-040220-013917)," *Annual Review of Statistics and Its Application*. [arxiv](https://arxiv.org/abs/2105.06324)
 
@@ -16,7 +16,7 @@ Peng RD, Chen A, Bridgeford E, Leek JT, Hicks SC (2021). "[Diagnosing Data Analy
 Peng RD, Hicks SC (2021) "[Reproducible Research: A Retrospective](https://www.annualreviews.org/doi/full/10.1146/annurev-publhealth-012420-105110)," *Annual Review of Statistics and Its Application*. [arxiv](https://arxiv.org/abs/2007.12210)
 
 
-# Books
+## Books
 
 
 Tiffany Timbers, Trevor Campbell, and Melissa Lee (2023) [Data Science: A First Introduction](https://datasciencebook.ca), Chapman & Hall/CRC Press.
@@ -25,3 +25,22 @@ Tiffany Timbers, Trevor Campbell, and Melissa Lee (2023) [Data Science: A First 
 Roger D. Peng, Elizabeth C. Matsui (2018) [The Art of Data Science](https://leanpub.com/artofdatascience).
 
 Carrie Wright, Shannon E. Ellis, Stephanie C. Hicks and Roger D. Peng (2021). [Tidyverse Skills for Data Science](http://jhudatascience.org/tidyversecourse/).
+
+
+## Blog Posts
+
+[Tukey, Design Thinking, and Better Questions](https://simplystatistics.org/posts/2019-04-17-tukey-design-thinking-and-better-questions/)
+
+[The Tentpoles of Data Science](https://simplystatistics.org/posts/2019-01-18-the-tentpoles-of-data-science/)
+
+[How Data Scientists Think - A Case Study](https://simplystatistics.org/posts/2019-01-09-how-data-scientists-think-a-mini-case-study/)
+
+[Divergent and Convergent Phases of Data Analysis](https://simplystatistics.org/posts/2018-09-14-divergent-and-convergent-phases-of-data-analysis/)
+
+[What can we learn from data analysis failures?](https://simplystatistics.org/posts/2018-04-23-what-can-we-learn-from-data-analysis-failures/)
+
+[What is a Successful Data Analysis?](https://simplystatistics.org/posts/2018-04-17-what-is-a-successful-data-analysis/)
+
+
+
+
