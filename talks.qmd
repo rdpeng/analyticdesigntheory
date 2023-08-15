@@ -4,7 +4,7 @@ editor: source
 ---
 
 
-## Upcoming
+## Recent and Upcoming
 
 [Principles for Designing Complex Data Analyses](https://www.bu.edu/hic/health-data-science-distinguished-speaker-roger-peng-university-of-texas-austin/), Roger D. Peng
 
