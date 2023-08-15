@@ -2,10 +2,44 @@
 title: "Theory of Data Analysis"
 ---
 
-This is a Quarto website.
+Welcome to the Theory of Data Analysis web site! We are an international group that is interested in developing and expanding the theoretical foundations of data analysis. You can learn more about our work by exploring some of the themes that we have been working on below and by reading our [recent publications](publications.qmd).
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-```{r}
-1 + 1
-```
+Each of the themes below attempts to address a range of questions that are important in data analysis. Here are just a few examples.
+
+## Modeling Analytic Iteration
+
+* How do we decide what tools to apply in a data analysis step?
+
+* What tools can we develop to make data analysis easier?
+
+* How can we improve and scale the teaching of data analysis?
+
+
+## Data Analysis and Design
+
+* What does it mean to "design" a data analysis?
+
+* What are the factors that can cause data analyses to be different from one another?
+
+* What does it mean for a data analysis to be successful?
+
+* How do we know when a data analysis is complete or sufficient?
+
+* How does the consumer of a data analysis contribute to its design and development?
+
+
+## Trustworthy Data Analysis
+
+* Why is it important to trust a data analysis?
+
+* What aspects of a data analysis contributes to it being trustworthy?
+
+* What are the characteristics of a trustworthy data analyst?
+
+
+
+
+
+
+

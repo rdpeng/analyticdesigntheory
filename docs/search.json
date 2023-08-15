@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Theory of Data Analysis",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Welcome to the Theory of Data Analysis web site! We are an international group that is interested in developing and expanding the theoretical foundations of data analysis. You can learn more about our work by exploring some of the themes that we have been working on below and by reading our recent publications.\nEach of the themes below attempts to address a range of questions that are important in data analysis. Here are just a few examples."
   },
   {
     "objectID": "about.html",
@@ -53,6 +53,27 @@
     "href": "publications.html#blog-posts",
     "title": "Publications",
     "section": "Blog Posts",
-    "text": "Blog Posts\nTukey, Design Thinking, and Better Questions\nThe Tentpoles of Data Science\nHow Data Scientists Think - A Case Study\nDivergent and Convergent Phases of Data Analysis\nWhat can we learn from data analysis failures?\nWhat is a Successful Data Analysis?"
+    "text": "Blog Posts\nTukey, Design Thinking, and Better Questions\nThe Tentpoles of Data Science\nHow Data Scientists Think - A Case Study\nDivergent and Convergent Phases of Data Analysis\nWhat can we learn from data analysis failures?\nWhat is a Successful Data Analysis?\nThe Role of Theory in Data Analysis"
+  },
+  {
+    "objectID": "index.html#modeling-analytic-iteration",
+    "href": "index.html#modeling-analytic-iteration",
+    "title": "Theory of Data Analysis",
+    "section": "Modeling Analytic Iteration",
+    "text": "Modeling Analytic Iteration\n\nHow do we decide what tools to apply in a data analysis step?\nWhat tools can we develop to make data analysis easier?\nHow can we improve and scale the teaching of data analysis?"
+  },
+  {
+    "objectID": "index.html#trustworthy-data-analysis",
+    "href": "index.html#trustworthy-data-analysis",
+    "title": "Theory of Data Analysis",
+    "section": "Trustworthy Data Analysis",
+    "text": "Trustworthy Data Analysis\n\nWhy is it important to trust a data analysis?\nWhat aspects of a data analysis contributes to it being trustworthy?\nWhat are the characteristics of a trustworthy data analyst?"
+  },
+  {
+    "objectID": "index.html#data-analysis-and-design",
+    "href": "index.html#data-analysis-and-design",
+    "title": "Theory of Data Analysis",
+    "section": "Data Analysis and Design",
+    "text": "Data Analysis and Design\n\nWhat does it mean to “design” a data analysis?\nWhat are the factors that can cause data analyses to be different from one another?\nWhat does it mean for a data analysis to be successful?\nHow do we know when a data analysis is complete or sufficient?\nHow does the consumer of a data analysis contribute to its design and development?"
   }
 ]
