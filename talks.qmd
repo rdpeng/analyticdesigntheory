@@ -10,10 +10,16 @@ editor: source
 
 * Boston University School of Public Health Population Health Data Science Program
 
-* September 21, 2023, 12-1pm EDT, BMC Hiebert Lounge, 72 E. Concord St, 14th Floor, Boston, or Zoom
+* September 21, 2023, 12-1pm EDT, BMC Hiebert Lounge, 72 E. Concord St, 14th Floor, Boston, or Zoom (Hybrid)
 
 * [Register for Zoom](https://bostonu.zoom.us/webinar/register/WN_P05hYl8_TbK6j2L1fcik7g#/registration)
 
+
+**Design Principles for Data Analysis**, Lucy D'Agostino McGowan
+
+* ASA Section on Teaching Statistics in the Health Sciences 
+
+* October 30, 2023, 3:30pm EDT (Online)
 
 
 ## Past
