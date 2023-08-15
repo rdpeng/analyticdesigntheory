@@ -10,6 +10,7 @@ website:
         text: Home
       - contributors.qmd
       - publications.qmd
+      - jobs.qmd
 
 
 format:
