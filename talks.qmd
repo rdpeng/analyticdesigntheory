@@ -4,7 +4,7 @@ editor: source
 ---
 
 
-## Recent and Upcoming
+## Recent & Upcoming
 
 [Principles for Designing Complex Data Analyses](https://www.bu.edu/hic/health-data-science-distinguished-speaker-roger-peng-university-of-texas-austin/), Roger D. Peng
 
@@ -18,9 +18,13 @@ editor: source
 
 ## Past
 
+[Practical Principles for Data Analysis Design](https://www.lucymcgowan.com/talk/u_mass_amherst_department_of_biostatistics_and_epidemiology_seminar_spring_2023/), Lucy D'Agostino McGowan
+
+* February 2023, University of  Massachusetts, Amherst Department of Biostatistics and Epidemiology 
+
 [Systematic Approaches to Diagnosing Data Analytic Problems](slides/pengslides_Rice_2022.pdf), Roger D. Peng
 
-* October, 2022, Department of Statistics, Rice University
+* October 2022, Department of Statistics, Rice University
 
 [The Past and Future of Data Analysis](https://youtu.be/qFtJaq4TlqE), Roger D. Peng
 

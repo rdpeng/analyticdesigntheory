@@ -95,7 +95,7 @@
     "href": "talks.html#past",
     "title": "Talks and Presentations",
     "section": "Past",
-    "text": "Past\nSystematic Approaches to Diagnosing Data Analytic Problems, Roger D. Peng\n\nOctober, 2022, Department of Statistics, Rice University\n\nThe Past and Future of Data Analysis, Roger D. Peng\n\nMay 2017, Johns Hopkins Bloomberg School of Public Health Dean’s Lecture.\n\nReproducible Research: What Have We Learned in 20 Years?, Roger D. Peng\n\nMay 2021, Beuhler-Martin Keynote Lecture, University of Minnesota Institute for Research in Statistics and its Applications"
+    "text": "Past\nPractical Principles for Data Analysis Design, Lucy D’Agostino McGowan\n\nFebruary 2023, University of Massachusetts, Amherst Department of Biostatistics and Epidemiology\n\nSystematic Approaches to Diagnosing Data Analytic Problems, Roger D. Peng\n\nOctober 2022, Department of Statistics, Rice University\n\nThe Past and Future of Data Analysis, Roger D. Peng\n\nMay 2017, Johns Hopkins Bloomberg School of Public Health Dean’s Lecture.\n\nReproducible Research: What Have We Learned in 20 Years?, Roger D. Peng\n\nMay 2021, Beuhler-Martin Keynote Lecture, University of Minnesota Institute for Research in Statistics and its Applications"
   },
   {
     "objectID": "talks.html",
@@ -114,6 +114,13 @@
   {
     "objectID": "talks.html#recent-and-upcoming",
     "href": "talks.html#recent-and-upcoming",
+    "title": "Talks and Presentations",
+    "section": "",
+    "text": "Principles for Designing Complex Data Analyses, Roger D. Peng\n\nBoston University School of Public Health Population Health Data Science Program\nSeptember 21, 2023, 12-1pm EDT, BMC Hiebert Lounge, 72 E. Concord St, 14th Floor, Boston, or Zoom\nRegister for Zoom"
+  },
+  {
+    "objectID": "talks.html#recent-upcoming",
+    "href": "talks.html#recent-upcoming",
     "title": "Talks and Presentations",
     "section": "",
     "text": "Principles for Designing Complex Data Analyses, Roger D. Peng\n\nBoston University School of Public Health Population Health Data Science Program\nSeptember 21, 2023, 12-1pm EDT, BMC Hiebert Lounge, 72 E. Concord St, 14th Floor, Boston, or Zoom\nRegister for Zoom"
