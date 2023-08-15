@@ -10,6 +10,8 @@ website:
         text: Home
       - contributors.qmd
       - publications.qmd
+      - href: talks.qmd
+        text: Talks
       - jobs.qmd
 
 
