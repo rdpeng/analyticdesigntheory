@@ -18,6 +18,14 @@ editor: source
 
 ## Past
 
+[Systematic Approaches to Diagnosing Data Analytic Problems](slides/pengslides_Rice_2022.pdf), Roger D. Peng
+
+* October, 2022, Department of Statistics, Rice University
+
 [The Past and Future of Data Analysis](https://youtu.be/qFtJaq4TlqE), Roger D. Peng
 
-* May 16, 2017, Johns Hopkins Bloomberg School of Public Health Dean's Lecture.
+* May 2017, Johns Hopkins Bloomberg School of Public Health Dean's Lecture.
+
+[Reproducible Research: What Have We Learned in 20 Years?](slides/pengslides_IRSA2021.pdf), Roger D. Peng
+
+* May 2021, Beuhler-Martin Keynote Lecture, University of Minnesota Institute for Research in Statistics and its Applications
