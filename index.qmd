@@ -2,21 +2,16 @@
 title: "Theory of Data Analysis"
 ---
 
-Welcome to the Theory of Data Analysis web site! We are an international group that is interested in developing and expanding the theoretical foundations of data analysis. You can learn more about our work by exploring some of the themes that we have been working on below and by reading our [recent publications](publications.qmd).
+Welcome to the Theory of Data Analysis web site! We are an international group that is interested in developing and expanding the theoretical foundations of data analysis and data science. You can learn more about our work by reading our [recent publications](publications.qmd) and perusing our [talks](talks.qmd).
 
 
-Each of the themes below attempts to address a range of questions that are important in data analysis. Here are just a few examples.
-
-## Modeling Analytic Iteration
-
-* How do we decide what tools to apply in a data analysis step?
-
-* What tools can we develop to make data analysis easier?
-
-* How can we improve and scale the teaching of data analysis?
-
+Our work so far has been divided into separate themes covering general areas of data science practice. Each of the themes below attempts to address a range of questions that are important in data analysis and data science. Here are just a few examples.
 
 ## Data Analysis and Design
+
+The data revolution has led to an increased interest in the practice of data analysis. While much has been written about statistical thinking, a complementary form of thinking that appears in the practice of data analysis is design thinking -- the problem-solving process to understand the people for whom a solution is being designed. For a given problem, there can be significant or subtle differences in how a data analyst (or producer of a data analysis) constructs, creates, or designs a data analysis, including differences in the choice of methods, tooling, and workflow. These choices can affect the data analysis products themselves and the experience of the consumer of the data analysis. Therefore, the role of a producer can be thought of as designing the data analysis with a set of design principles. 
+
+Some questions we hope to address in this work are:
 
 * What does it mean to "design" a data analysis?
 
@@ -29,7 +24,24 @@ Each of the themes below attempts to address a range of questions that are impor
 * How does the consumer of a data analysis contribute to its design and development?
 
 
-## Trustworthy Data Analysis
+
+## Modeling Analytic Iteration
+
+In 1977, John Tukey described how in exploratory data analysis, data analysts use tools, such as data visualizations, to separate their expectations from what they observe. In contrast to statistical theory, a unique aspect of data analysis is that a data analyst must make decisions in response to observing the data or output from applying a statistical method to the data. However, there is little formal guidance for how to make these data analytic decisions as statistical theory generally omits a discussion of who is using these statistical methods. 
+
+Some questions we hope to address in this work are:
+
+* How do we decide what tools to apply in a data analysis step?
+
+* What tools can we develop to make data analysis easier?
+
+* How can we improve and scale the teaching of data analysis?
+
+
+## Trust and Reliability in Data Analysis
+
+
+Some questions we hope to address in this work are:
 
 * Why is it important to trust a data analysis?
 
