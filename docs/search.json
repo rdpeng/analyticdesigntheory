@@ -25,7 +25,7 @@
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "D’Agostino McGowan L, Hicks SC, Peng RD (2022). “Design Principles for Data Analysis,” Journal of Computational and Graphical Statistics.\n\nWinner of 2023 Young Investigator Award from the ASA Section on Teaching of Statistics in the Health Sciences\n\nPeng RD, Parker HS (2022). “Perspective on Data Science,” Annual Review of Statistics and Its Application. arxiv\nPeng RD, Chen A, Bridgeford E, Leek JT, Hicks SC (2021). “Diagnosing Data Analytic Problems in the Classroom,” Journal of Statistics and Data Science Education.\nPeng RD, Hicks SC (2021) “Reproducible Research: A Retrospective,” Annual Review of Statistics and Its Application. arxiv"
+    "text": "Peng RD, Hicks SC. “Modeling Analytic Iteration Using Probabilistic Outcome Sets.” arxiv"
   },
   {
     "objectID": "contributors.html",
@@ -38,8 +38,8 @@
     "objectID": "publications.html#papers",
     "href": "publications.html#papers",
     "title": "Publications",
-    "section": "",
-    "text": "D’Agostino McGowan L, Hicks SC, Peng RD (2022). “Design Principles for Data Analysis,” Journal of Computational and Graphical Statistics.\n\nWinner of 2023 Young Investigator Award from the ASA Section on Teaching of Statistics in the Health Sciences\n\nPeng RD, Parker HS (2022). “Perspective on Data Science,” Annual Review of Statistics and Its Application. arxiv\nPeng RD, Chen A, Bridgeford E, Leek JT, Hicks SC (2021). “Diagnosing Data Analytic Problems in the Classroom,” Journal of Statistics and Data Science Education.\nPeng RD, Hicks SC (2021) “Reproducible Research: A Retrospective,” Annual Review of Statistics and Its Application. arxiv"
+    "section": "Papers",
+    "text": "Papers\nD’Agostino McGowan L, Hicks SC, Peng RD (2022). “Design Principles for Data Analysis,” Journal of Computational and Graphical Statistics.\n\nWinner of 2023 Young Investigator Award from the ASA Section on Teaching of Statistics in the Health Sciences\n\nPeng RD, Parker HS (2022). “Perspective on Data Science,” Annual Review of Statistics and Its Application. arxiv\nPeng RD, Chen A, Bridgeford E, Leek JT, Hicks SC (2021). “Diagnosing Data Analytic Problems in the Classroom,” Journal of Statistics and Data Science Education.\nPeng RD, Hicks SC (2021) “Reproducible Research: A Retrospective,” Annual Review of Statistics and Its Application. arxiv"
   },
   {
     "objectID": "publications.html#books",
@@ -159,5 +159,12 @@
     "title": "Contributors",
     "section": "",
     "text": "Stephanie Hicks is an Associate Professor in the Department of Biostatistics at Johns Hopkins University and is an applied statistician working at the intersection of genomics and biomedical data science. Her research addresses statistical and computational challenges in single-cell genomics, epigenomics, and spatial transcriptomics leading to an improved understanding of human health and disease. Specifically, she develops fast and scalable computational methods and open-source software for biomedical data analysis.Her research philosophy is problem-forward: she develops computational methods and software that are motivated by concrete problems, often with real-world, messy data. This philosophy permeates into her contributions to statistics and data science education, and service to the profession including being an advocate for diversity, equity, and inclusion. Dr. Hicks is ia co-host of the The Corresponding Author podcast, member of the Editorial Board for Genome Biology, an Associate Editor for Reproducibility at the Journal of the American Statistical Association, and co-founder of R-Ladies Baltimore. She is the recipient of the Myrto Lefkopoulou Distinguished Lectureship at the Harvard T.H. Chan School of Public Health.\nLucy D’Agostino McGowan is an Assistant Professor in the Department of Statistical Sciences at Wake Forest University. She received her PhD in Biostatistics from Vanderbilt University and completed her postdoctoral training at Johns Hopkins University Bloomberg School of Public Health. Her research focuses on statistical communication, causal inference, data science pedagogy, and human-data interaction. Dr. D’Agostino McGowan is the 2023 chair of the American Statistical Association’s Section on Statistical Graphics and can be found blogging at livefreeordichotomize.com, on Twitter @LucyStats, and podcasting on the American Journal of Epidemiology partner podcast, Casual Inference.\nRoger D. Peng is a Professor of Statistics and Data Sciences at the University of Texas, Austin. Previously, he was Professor of Biostatistics at the Johns Hopkins Bloomberg School of Public Health and the Co-Director of the Johns Hopkins Data Science Lab. His current research focuses on developing theory and methods for building successful data analyses and on the development of statistical methods for addressing environmental health problems. He is the author of the popular book R Programming for Data Science and 10 other books on data science and statistics. He is also the co-creator of the Simply Statistics blog where he writes about statistics for the public, the Not So Standard Deviations podcast with Hilary Parker, and The Effort Report podcast with Elizabeth Matsui. Roger is a Fellow of the American Statistical Association and is the recipient of the Mortimer Spiegelman Award from the American Public Health Association, which honors a statistician who has made outstanding contributions to public health. Roger received a PhD in Statistics from the University of California, Los Angeles."
+  },
+  {
+    "objectID": "publications.html#preprints",
+    "href": "publications.html#preprints",
+    "title": "Publications",
+    "section": "",
+    "text": "Peng RD, Hicks SC. “Modeling Analytic Iteration Using Probabilistic Outcome Sets.” arxiv"
   }
 ]

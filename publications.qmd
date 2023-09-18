@@ -2,6 +2,10 @@
 title: "Publications"
 ---
 
+## Preprints
+
+Peng RD, Hicks SC. "[Modeling Analytic Iteration Using Probabilistic Outcome Sets](https://arxiv.org/abs/2309.08494)." [arxiv](https://arxiv.org/abs/2309.08494)
+
 
 ## Papers
 
