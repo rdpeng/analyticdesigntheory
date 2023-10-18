@@ -11,7 +11,7 @@ title: "Frequently Asked Questions"
 
 
 
-## Isn't analytic iteration just another way of p-hacking?
+## Isn't analytic iteration just p-hacking?
 
 
 
