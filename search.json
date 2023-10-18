@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "faq.html#does-analytic-design-theory-tells-what-is-good-data-analysis",
-    "href": "faq.html#does-analytic-design-theory-tells-what-is-good-data-analysis",
-    "title": "Frequently Asked Questions",
-    "section": "Does analytic design theory tells what is good data analysis?",
-    "text": "Does analytic design theory tells what is good data analysis?"
-  },
-  {
     "objectID": "faq.html#how-does-analytic-iteration-relate-to-bayesian-or-frequentist-inference",
     "href": "faq.html#how-does-analytic-iteration-relate-to-bayesian-or-frequentist-inference",
     "title": "Frequently Asked Questions",
@@ -21,11 +14,11 @@
     "text": "Isn’t analytic iteration just another way of p-hacking?"
   },
   {
-    "objectID": "faq.html#what-about-clinical-trials",
-    "href": "faq.html#what-about-clinical-trials",
+    "objectID": "faq.html#how-does-this-apply-to-the-analysis-of-clinical-trials",
+    "href": "faq.html#how-does-this-apply-to-the-analysis-of-clinical-trials",
     "title": "Frequently Asked Questions",
-    "section": "What about clinical trials??",
-    "text": "What about clinical trials??"
+    "section": "How does this apply to the analysis of clinical trials?",
+    "text": "How does this apply to the analysis of clinical trials?"
   },
   {
     "objectID": "publications.html",
