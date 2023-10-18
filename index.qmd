@@ -1,8 +1,8 @@
 ---
-title: "Theory of Data Analysis"
+title: "Analytic Design Theory"
 ---
 
-Welcome to the Theory of Data Analysis web site! We are an international group that is interested in developing and expanding the theoretical foundations of data analysis and data science. You can learn more about our work by reading our [recent publications](publications.qmd) and perusing our [talks](talks.qmd).
+Welcome to the Analytic Design Theory web site! We are an international group that is interested in developing and expanding the theoretical foundations of data analysis and data science. You can learn more about our work by reading our [recent publications](publications.qmd) and perusing our [talks](talks.qmd).
 
 
 Our work so far has been divided into separate themes covering general areas of data science practice. Each of the themes below attempts to address a range of questions that are important in data analysis and data science. Here are just a few examples.
