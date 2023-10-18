@@ -1,16 +1,16 @@
 ---
+image: img/analytic-design.png
 about:
-  template: trestles
-  image: img/analytic-design.png
-toc: false
+  template: broadside
+title: Analytic Design Theory
 ---
 
-##  Analytic Design Theory
 
 Analytic design theory is the study of how data analyses are conducted in the real world. Aspects of this include characterizing variation between analyses, developing measures of quality, success, and usability, modeling the analytic process, and considering what makes data analyses more or less trustworthy. Analytic design theory is driven by the need to scale the training of data analysis and to continuously improve the quality of analyses.
 
 You can learn more about different aspects of analytic design theory in these [recent publications](publications.qmd) and [talks](talks.qmd).
 
 
+<br><br><br><br><br><br><br><br><br>
 
 
