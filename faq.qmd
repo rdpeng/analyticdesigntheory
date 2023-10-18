@@ -1,0 +1,22 @@
+---
+title: "Frequently Asked Questions"
+---
+
+## Do design principles tell us about good and bad analyses?
+
+
+
+
+## How does analytic iteration relate to Bayesian or Frequentist inference?
+
+
+
+
+## Isn't analytic iteration just another way of p-hacking?
+
+
+
+
+## What about clinical trials??
+
+

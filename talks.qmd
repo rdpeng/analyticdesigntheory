@@ -6,13 +6,10 @@ editor: source
 
 ## Recent & Upcoming
 
-[Principles for Designing Complex Data Analyses](https://www.bu.edu/hic/health-data-science-distinguished-speaker-roger-peng-university-of-texas-austin/), Roger D. Peng
 
-* Boston University School of Public Health Population Health Data Science Program
+[Principles for Designing Complex Data Analyses](https://biostat.app.vumc.org/wiki/Main/RogerPeng11012023), Roger D. Peng
 
-* September 21, 2023, 12-1pm EDT, BMC Hiebert Lounge, 72 E. Concord St, 14th Floor, Boston, or Zoom (Hybrid)
-
-* [Register for Zoom](https://bostonu.zoom.us/webinar/register/WN_P05hYl8_TbK6j2L1fcik7g#/registration)
+* Vanderbilt University Department of Biostatistics
 
 
 **Design Principles for Data Analysis**, Lucy D'Agostino McGowan
@@ -23,6 +20,11 @@ editor: source
 
 
 ## Past
+
+[Principles for Designing Complex Data Analyses](https://www.bu.edu/hic/health-data-science-distinguished-speaker-roger-peng-university-of-texas-austin/), Roger D. Peng
+
+* Boston University School of Public Health Population Health Data Science Program
+
 
 [Practical Principles for Data Analysis Design](https://www.lucymcgowan.com/talk/u_mass_amherst_department_of_biostatistics_and_epidemiology_seminar_spring_2023/), Lucy D'Agostino McGowan
 

@@ -12,11 +12,16 @@ website:
         text: Research
       - href: publications.qmd
         text: Publications
-      - href: about.qmd
-        text: About
-      - href: talks.qmd
-        text: Talks
-      - jobs.qmd
+      - href: faq.qmd
+        text: FAQ
+      - text: "More Info"
+        menu: 
+          - href: talks.qmd
+            text: Talks
+          - href: about.qmd
+            text: About
+          - href: jobs.qmd
+            text: Jobs
 
 
 format:
