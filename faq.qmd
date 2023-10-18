@@ -12,8 +12,7 @@ title: "Frequently Asked Questions"
 
 ## How does analytic iteration relate to Bayesian or Frequentist inference?
 
-
-
+Hi!
 
 ## Isn't analytic iteration just another way of p-hacking?
 
