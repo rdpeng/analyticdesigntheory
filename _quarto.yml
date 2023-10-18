@@ -1,6 +1,5 @@
 project:
   type: website
-  output-dir: "docs"
 
 website:
   title: "Analytic Design Theory"
@@ -30,5 +29,8 @@ format:
     css: styles.css
     toc: true
 
+editor: visual
 
+execute:
+  freeze: auto
 
