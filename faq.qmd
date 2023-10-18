@@ -2,11 +2,7 @@
 title: "Frequently Asked Questions"
 ---
 
-## Do design principles tell us about good and bad analyses?
-
-
-
-## Does analytic design theory tells what is good data analysis?
+## Does analytic design theory tell us what is good (or bad) data analysis?
 
 
 
