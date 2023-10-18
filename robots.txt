@@ -1,1 +1,1 @@
-Sitemap: https://rdpeng.github.io/theoryofdataanalysis/sitemap.xml
+Sitemap: https://theoryofdataanalysis.org/sitemap.xml
