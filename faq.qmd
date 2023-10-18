@@ -6,6 +6,11 @@ title: "Frequently Asked Questions"
 
 
 
+## Does analytic design theory tells what is good data analysis?
+
+
+## 
+
 
 ## How does analytic iteration relate to Bayesian or Frequentist inference?
 
