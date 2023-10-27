@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://theoryofdataanalysis.org/faq.html</loc>
-    <lastmod>2023-10-18T20:12:17.409Z</lastmod>
-  </url>
-  <url>
-    <loc>https://theoryofdataanalysis.org/publications.html</loc>
-    <lastmod>2023-10-18T20:12:16.645Z</lastmod>
-  </url>
-  <url>
-    <loc>https://theoryofdataanalysis.org/contributors.html</loc>
-    <lastmod>2023-10-18T20:12:15.853Z</lastmod>
-  </url>
-  <url>
     <loc>https://theoryofdataanalysis.org/research.html</loc>
-    <lastmod>2023-10-18T20:12:14.981Z</lastmod>
-  </url>
-  <url>
-    <loc>https://theoryofdataanalysis.org/jobs.html</loc>
-    <lastmod>2023-10-18T20:12:14.169Z</lastmod>
-  </url>
-  <url>
-    <loc>https://theoryofdataanalysis.org/about.html</loc>
-    <lastmod>2023-10-18T20:12:15.381Z</lastmod>
+    <lastmod>2023-10-27T02:34:57.943Z</lastmod>
   </url>
   <url>
     <loc>https://theoryofdataanalysis.org/talks.html</loc>
-    <lastmod>2023-10-18T20:12:16.261Z</lastmod>
+    <lastmod>2023-10-27T02:34:57.199Z</lastmod>
+  </url>
+  <url>
+    <loc>https://theoryofdataanalysis.org/contributors.html</loc>
+    <lastmod>2023-10-27T02:34:56.467Z</lastmod>
+  </url>
+  <url>
+    <loc>https://theoryofdataanalysis.org/faq.html</loc>
+    <lastmod>2023-10-27T02:34:55.723Z</lastmod>
+  </url>
+  <url>
+    <loc>https://theoryofdataanalysis.org/about.html</loc>
+    <lastmod>2023-10-27T02:34:55.039Z</lastmod>
   </url>
   <url>
     <loc>https://theoryofdataanalysis.org/index.html</loc>
-    <lastmod>2023-10-18T20:12:17.049Z</lastmod>
+    <lastmod>2023-10-27T02:34:56.063Z</lastmod>
+  </url>
+  <url>
+    <loc>https://theoryofdataanalysis.org/jobs.html</loc>
+    <lastmod>2023-10-27T02:34:56.827Z</lastmod>
+  </url>
+  <url>
+    <loc>https://theoryofdataanalysis.org/publications.html</loc>
+    <lastmod>2023-10-27T02:34:57.571Z</lastmod>
   </url>
 </urlset>
