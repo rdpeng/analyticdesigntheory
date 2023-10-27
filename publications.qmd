@@ -4,6 +4,8 @@ title: "Publications"
 
 ## Preprints
 
+Peng RD. "[Predicting Patient No-Shows in Community Health Clinics: A Case Study in Designing a Data Analytic Product](https://arxiv.org/abs/2310.17506)." [arxiv](https://arxiv.org/abs/2310.17506)
+
 Peng RD, Hicks SC. "[Modeling Analytic Iteration Using Probabilistic Outcome Sets](https://arxiv.org/abs/2309.08494)." [arxiv](https://arxiv.org/abs/2309.08494)
 
 
