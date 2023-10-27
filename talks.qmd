@@ -11,6 +11,8 @@ editor: source
 
 * Vanderbilt University Department of Biostatistics
 
+* November 1, 2023, 1:30pm CDT
+
 
 **Design Principles for Data Analysis**, Lucy D'Agostino McGowan
 
