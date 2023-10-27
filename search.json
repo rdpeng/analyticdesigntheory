@@ -70,25 +70,39 @@
     "text": "Postdoctoral Fellows\nMatthew Vanaman is a Postdoctoral Fellow in the Department of Statistics and Data Sciences at the University of Texas, Austin. He received his PhD in Psychology from the City University of New York with a dissertation titled “Can moralization-network theory explain why people oppose harm reduction?”"
   },
   {
+    "objectID": "faq.html",
+    "href": "faq.html",
+    "title": "Frequently Asked Questions",
+    "section": "",
+    "text": "A major goal of analytic design theory is to formally define the conditions for making a data analysis successful. Data analyses serve many different purposes for many different people and integrating all of these concepts into a simple measure of “good” or “bad” is not useful or informative. Rather, it is likely that there are a variety of “dimensions” along which we might characterize data analyses. Along these different dimensions we may be able to consider analyses that are preferable or more useful than others. For example, in a paper by D’Agostino McGowan, et al. a set of design principles were defined for characterizing variation between data analyses. One way to evaluate the success of a data analysis is through the concept of alignment between the analysis producer and consumer and whether both producer and consumer weight these principles similarly. As work continues, other concepts might emerge that help to characterize the qualities of a data analysis."
+  },
+  {
+    "objectID": "faq.html#does-analytic-design-theory-tell-us-what-is-a-good-or-bad-data-analysis",
+    "href": "faq.html#does-analytic-design-theory-tell-us-what-is-a-good-or-bad-data-analysis",
+    "title": "Frequently Asked Questions",
+    "section": "",
+    "text": "A major goal of analytic design theory is to formally define the conditions for making a data analysis successful. Data analyses serve many different purposes for many different people and integrating all of these concepts into a simple measure of “good” or “bad” is not useful or informative. Rather, it is likely that there are a variety of “dimensions” along which we might characterize data analyses. Along these different dimensions we may be able to consider analyses that are preferable or more useful than others. For example, in a paper by D’Agostino McGowan, et al. a set of design principles were defined for characterizing variation between data analyses. One way to evaluate the success of a data analysis is through the concept of alignment between the analysis producer and consumer and whether both producer and consumer weight these principles similarly. As work continues, other concepts might emerge that help to characterize the qualities of a data analysis."
+  },
+  {
     "objectID": "faq.html#how-does-analytic-iteration-relate-to-bayesian-or-frequentist-inference",
     "href": "faq.html#how-does-analytic-iteration-relate-to-bayesian-or-frequentist-inference",
     "title": "Frequently Asked Questions",
-    "section": "How does analytic iteration relate to Bayesian or Frequentist inference?",
-    "text": "How does analytic iteration relate to Bayesian or Frequentist inference?"
+    "section": "How does analytic iteration relate to Bayesian or frequentist inference?",
+    "text": "How does analytic iteration relate to Bayesian or frequentist inference?\nAnalytic iteration, a concept introduced and formalized in a paper by Peng and Hicks, is independent of traditional inferential paradigms in statistics. Typical presentations of Bayesian or frequentist approaches essentially take a single pass through the data to produce a result. Bayesian approaches integrate the likelihood function with a prior distribution to produce a posterior distribution or some function of the posterior. Frequentist approaches similarly take the data and produce a result such a test statistic or a confidence interval. In both cases, no matter how complex or time-consuming the procedure may be (e.g. MCMC or bootstrap), these approaches represent a single analytic iteration because the analyst doesn’t see the data or results until the very end of the process. At that point, the analyst must interpret the result and decide on subsequent action. At that point, a second iteration could be initiated. Analytic iteration is not tied to specific inferential paradigms or specific statistical procedures or tools. Rather, analytic iteration describes a more general series of activities—considering expected potential outcomes, diagnosing unexpected outcomes—that are common to most if not all data analyses."
   },
   {
-    "objectID": "faq.html#isnt-analytic-iteration-just-p-hacking",
-    "href": "faq.html#isnt-analytic-iteration-just-p-hacking",
+    "objectID": "faq.html#isnt-analytic-iteration-just-another-word-for-p-hacking",
+    "href": "faq.html#isnt-analytic-iteration-just-another-word-for-p-hacking",
     "title": "Frequently Asked Questions",
-    "section": "Isn’t analytic iteration just p-hacking?",
-    "text": "Isn’t analytic iteration just p-hacking?"
+    "section": "Isn’t analytic iteration just another word for p-hacking?",
+    "text": "Isn’t analytic iteration just another word for p-hacking?\nThe act of p-hacking is typically described as analyzing many outcomes or conducting many tests and then only presenting those outcomes that are “significant” (while omitting the other “non-significant” outcomes). This approach is problematic because it implies a lesser degree of uncertainty than actually exists in the result. Analytic iteration is the process of applying a tool to data, developing expectations for the output, and comparing the output of the tool to our expectations. From that comparison, one can decide on a subsequent follow up action, such as applying a new tool to the data to obtain new output. This process bears some superficial resemblance to p-hacking because in both cases multiple tools are being applied to the data to produce a series of outputs. However, they key problem with p-hacking is the omission of results that are deemed non-significant, which produces a misleading characterization of the uncertainty as well as a misleading representation of the process for obtaining the result. Analytic iteration is a general process describing how an analyst learns from a dataset; it does not necessarily describe how results should be presented. Reproducibility and transparency is, in general, key to presenting an accurate picture of the analytic process."
   },
   {
-    "objectID": "faq.html#how-does-this-apply-to-the-analysis-of-clinical-trials",
-    "href": "faq.html#how-does-this-apply-to-the-analysis-of-clinical-trials",
+    "objectID": "faq.html#how-does-analytic-iteration-apply-to-the-analysis-of-clinical-trials",
+    "href": "faq.html#how-does-analytic-iteration-apply-to-the-analysis-of-clinical-trials",
     "title": "Frequently Asked Questions",
-    "section": "How does this apply to the analysis of clinical trials?",
-    "text": "How does this apply to the analysis of clinical trials?"
+    "section": "How does analytic iteration apply to the analysis of clinical trials?",
+    "text": "How does analytic iteration apply to the analysis of clinical trials?\nData from clinical trials are often analyzed using a highly-specific and detailed analytic protocol that is written even before the data are collected. Such an approach to pre-specification can guard against the possiblity of p-hacking or the selective presentation of results. In many clinical trials, once the data are collected, the pre-specified analysis protocol must be executed without deviation. In this scenario, there is no real analytic iteration; there is only a single analytic “step”. While that step may be complicated and statistically sophisticated, there are no intermediate results for the analyst to look at and consider. Therefore, there are no decisions for the analyst to make in the execution of the clinical trial analysis protocol. Indeed, that is often the point of pre-specifying the analysis, so that the analyst is not tempted to revise the analysis on the fly to orient it towards a preferred outcome. However, once the analysis is done and the results are in hand, the analyst may want to explore the data more to explain the observed results or to gain some insight. This typically does not involve changing the original analysis protocol. Rather, this next iteration of the analysis would add to what was already produced in order to provide clearer explanation or interpretation to the results."
   },
   {
     "objectID": "about.html",
