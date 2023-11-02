@@ -1,1 +1,1 @@
-Sitemap: https://theoryofdataanalysis.org/sitemap.xml
+Sitemap: https://analyticdesigntheory.org/sitemap.xml
