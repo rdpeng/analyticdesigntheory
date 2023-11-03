@@ -6,6 +6,15 @@ editor: source
 
 ## Recent & Upcoming
 
+TBA, Roger D. Peng
+
+* UT Health Houston Department of Biostatistics and Data Science
+
+* February 20, 2024, 12:00pm CST
+
+
+
+## Past
 
 [Principles for Designing Complex Data Analyses](https://biostat.app.vumc.org/wiki/Main/RogerPeng11012023), Roger D. Peng
 
@@ -19,9 +28,6 @@ editor: source
 * ASA Section on Teaching Statistics in the Health Sciences 
 
 * October 30, 2023, 3:30pm EDT (Online)
-
-
-## Past
 
 [Principles for Designing Complex Data Analyses](https://www.bu.edu/hic/health-data-science-distinguished-speaker-roger-peng-university-of-texas-austin/), Roger D. Peng
 
