@@ -16,6 +16,12 @@ TBA, Roger D. Peng
 
 ## Past
 
+**Analytic Design Theory: A Framework for Alignment Between Analyst and Audience**, Lucy D'Agostino McGowan
+
+* North Carolina Chapter of the ASA
+
+* December 4, 2023, 5:30pm EST
+
 [Principles for Designing Complex Data Analyses](https://biostat.app.vumc.org/wiki/Main/RogerPeng11012023), Roger D. Peng
 
 * Vanderbilt University Department of Biostatistics
@@ -42,10 +48,11 @@ TBA, Roger D. Peng
 
 * October 2022, Department of Statistics, Rice University
 
+[Reproducible Research: What Have We Learned in 20 Years?](slides/pengslides_IRSA2021.pdf), Roger D. Peng
+
+* May 2021, Beuhler-Martin Keynote Lecture, University of Minnesota Institute for Research in Statistics and its Applications
+
 [The Past and Future of Data Analysis](https://youtu.be/qFtJaq4TlqE), Roger D. Peng
 
 * May 2017, Johns Hopkins Bloomberg School of Public Health Dean's Lecture.
 
-[Reproducible Research: What Have We Learned in 20 Years?](slides/pengslides_IRSA2021.pdf), Roger D. Peng
-
-* May 2021, Beuhler-Martin Keynote Lecture, University of Minnesota Institute for Research in Statistics and its Applications
