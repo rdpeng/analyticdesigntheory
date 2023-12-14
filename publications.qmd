@@ -4,16 +4,17 @@ title: "Publications"
 
 ## Preprints
 
+D'Agostino McGowan L, Peng RD, Hicks SC. "[Evaluating the Alignment of a Data Analysis between Analyst and Audience](https://arxiv.org/abs/2312.07616)." [arxiv](https://arxiv.org/abs/2312.07616)
+
 Peng RD. "[Predicting Patient No-Shows in Community Health Clinics: A Case Study in Designing a Data Analytic Product](https://arxiv.org/abs/2310.17506)." [arxiv](https://arxiv.org/abs/2310.17506)
 
 Peng RD, Hicks SC. "[Modeling Analytic Iteration Using Probabilistic Outcome Sets](https://arxiv.org/abs/2309.08494)." [arxiv](https://arxiv.org/abs/2309.08494)
 
-
 ## Papers
 
-D'Agostino McGowan L, Hicks SC, Peng RD (2022). "[Design Principles for Data Analysis](https://www.tandfonline.com/doi/full/10.1080/10618600.2022.2104290)," *Journal of Computational and Graphical Statistics*. 
+D'Agostino McGowan L, Hicks SC, Peng RD (2022). "[Design Principles for Data Analysis](https://www.tandfonline.com/doi/full/10.1080/10618600.2022.2104290)," *Journal of Computational and Graphical Statistics*.
 
-* Winner of 2023 [Young Investigator Award](https://tshsblog.wixsite.com/main/single-post/2023-tshs-section-awards) from the ASA Section on Teaching of Statistics in the Health Sciences
+-   Winner of 2023 [Young Investigator Award](https://tshsblog.wixsite.com/main/single-post/2023-tshs-section-awards) from the ASA Section on Teaching of Statistics in the Health Sciences
 
 Peng RD, Parker HS (2022). "[Perspective on Data Science](https://www.annualreviews.org/doi/full/10.1146/annurev-statistics-040220-013917)," *Annual Review of Statistics and Its Application*. [arxiv](https://arxiv.org/abs/2105.06324)
 
@@ -21,17 +22,13 @@ Peng RD, Chen A, Bridgeford E, Leek JT, Hicks SC (2021). "[Diagnosing Data Analy
 
 Peng RD, Hicks SC (2021) "[Reproducible Research: A Retrospective](https://www.annualreviews.org/doi/full/10.1146/annurev-publhealth-012420-105110)," *Annual Review of Statistics and Its Application*. [arxiv](https://arxiv.org/abs/2007.12210)
 
-
 ## Books
 
-
 Tiffany Timbers, Trevor Campbell, and Melissa Lee (2023) [Data Science: A First Introduction](https://datasciencebook.ca), Chapman & Hall/CRC Press.
-
 
 Roger D. Peng, Elizabeth C. Matsui (2018) [The Art of Data Science](https://leanpub.com/artofdatascience).
 
 Carrie Wright, Shannon E. Ellis, Stephanie C. Hicks and Roger D. Peng (2021). [Tidyverse Skills for Data Science](http://jhudatascience.org/tidyversecourse/).
-
 
 ## Blog Posts
 
@@ -48,6 +45,3 @@ Carrie Wright, Shannon E. Ellis, Stephanie C. Hicks and Roger D. Peng (2021). [T
 [What is a Successful Data Analysis?](https://simplystatistics.org/posts/2018-04-17-what-is-a-successful-data-analysis/)
 
 [The Role of Theory in Data Analysis](https://simplystatistics.org/posts/2018-12-11-the-role-of-theory-in-data-analysis/)
-
-
-
