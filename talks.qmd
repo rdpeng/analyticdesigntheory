@@ -6,21 +6,44 @@ editor: source
 
 ## Recent & Upcoming
 
-TBA, Roger D. Peng
+
+
+
+## Past
+
+Exploring Reflective Practice in Data Analysis, Matthew Vanaman
+
+* Joint Statistical Meetings, Portland, Oregon
+
+* August 8, 2024
+
+
+Modeling Analytic Iteration with Probabilistic Outcome Sets, Stephanie Hicks
+
+* Joint Statistical Meetings, Portland, Oregon
+
+* August 8, 2024
+
+
+Evaluating the Alignment of a Data Analysis between Analyst and Audience, Lucy D'Agostino McGowan
+
+* Joint Statistical Meetings, Portland, Oregon
+
+* August 8, 2024
+
+
+Presenting the Analytic Process: Beyond Reproducibility, Roger D. Peng
+
+* Joint Statistical Meetings, Portland, Oregon
+
+* August 4, 2024
+
+
+Principles for Designing Complex Data Analyses, Roger D. Peng
 
 * UT Health Houston Department of Biostatistics and Data Science
 
 * February 20, 2024, 12:00pm CST
-
-
-Analytic Design Theory: A Framework for Alignment Between Analyst and Audience, Lucy D'Agostino McGowan
-
-* North Carolina Chapter of the ASA
-
-* TBD
-
-
-## Past
 
 
 [Principles for Designing Complex Data Analyses](https://biostat.app.vumc.org/wiki/Main/RogerPeng11012023), Roger D. Peng
