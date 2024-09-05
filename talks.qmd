@@ -11,72 +11,96 @@ editor: source
 
 ## Past
 
-Exploring Reflective Practice in Data Analysis, Matthew Vanaman
+Analytic Fluency: What It Is, Who Has It, And How It Is Learned
+
+* Matthew Vanaman
 
 * Joint Statistical Meetings, Portland, Oregon
 
 * August 8, 2024
 
 
-Modeling Analytic Iteration with Probabilistic Outcome Sets, Stephanie Hicks
+Modeling Analytic Iteration with Probabilistic Outcome Sets
+
+* Stephanie Hicks
 
 * Joint Statistical Meetings, Portland, Oregon
 
 * August 8, 2024
 
 
-Evaluating the Alignment of a Data Analysis between Analyst and Audience, Lucy D'Agostino McGowan
+Evaluating the Alignment of a Data Analysis between Analyst and Audience
+
+* Lucy D'Agostino McGowan
 
 * Joint Statistical Meetings, Portland, Oregon
 
 * August 8, 2024
 
 
-Presenting the Analytic Process: Beyond Reproducibility, Roger D. Peng
+Presenting the Analytic Process: Beyond Reproducibility
+
+* Roger D. Peng
 
 * Joint Statistical Meetings, Portland, Oregon
 
 * August 4, 2024
 
 
-Principles for Designing Complex Data Analyses, Roger D. Peng
+Principles for Designing Complex Data Analyses
+
+* Roger D. Peng
 
 * UT Health Houston Department of Biostatistics and Data Science
 
 * February 20, 2024, 12:00pm CST
 
 
-[Principles for Designing Complex Data Analyses](https://biostat.app.vumc.org/wiki/Main/RogerPeng11012023), Roger D. Peng
+[Principles for Designing Complex Data Analyses](https://biostat.app.vumc.org/wiki/Main/RogerPeng11012023)
+
+* Roger D. Peng
 
 * Vanderbilt University Department of Biostatistics
 
 * November 1, 2023, 1:30pm CDT
 
 
-**Design Principles for Data Analysis**, Lucy D'Agostino McGowan
+Design Principles for Data Analysis
+
+* Lucy D'Agostino McGowan
 
 * ASA Section on Teaching Statistics in the Health Sciences 
 
 * October 30, 2023, 3:30pm EDT (Online)
 
-[Principles for Designing Complex Data Analyses](https://www.bu.edu/hic/health-data-science-distinguished-speaker-roger-peng-university-of-texas-austin/), Roger D. Peng
+[Principles for Designing Complex Data Analyses](https://www.bu.edu/hic/health-data-science-distinguished-speaker-roger-peng-university-of-texas-austin/)
+
+* Roger D. Peng
 
 * Boston University School of Public Health Population Health Data Science Program
 
 
-[Practical Principles for Data Analysis Design](https://www.lucymcgowan.com/talk/u_mass_amherst_department_of_biostatistics_and_epidemiology_seminar_spring_2023/), Lucy D'Agostino McGowan
+[Practical Principles for Data Analysis Design](https://www.lucymcgowan.com/talk/u_mass_amherst_department_of_biostatistics_and_epidemiology_seminar_spring_2023/)
+
+* Lucy D'Agostino McGowan
 
 * February 2023, University of  Massachusetts, Amherst Department of Biostatistics and Epidemiology 
 
-[Systematic Approaches to Diagnosing Data Analytic Problems](slides/pengslides_Rice_2022.pdf), Roger D. Peng
+[Systematic Approaches to Diagnosing Data Analytic Problems](slides/pengslides_Rice_2022.pdf)
+
+* Roger D. Peng
 
 * October 2022, Department of Statistics, Rice University
 
-[Reproducible Research: What Have We Learned in 20 Years?](slides/pengslides_IRSA2021.pdf), Roger D. Peng
+[Reproducible Research: What Have We Learned in 20 Years?](slides/pengslides_IRSA2021.pdf)
+
+* Roger D. Peng
 
 * May 2021, Beuhler-Martin Keynote Lecture, University of Minnesota Institute for Research in Statistics and its Applications
 
-[The Past and Future of Data Analysis](https://youtu.be/qFtJaq4TlqE), Roger D. Peng
+[The Past and Future of Data Analysis](https://youtu.be/qFtJaq4TlqE)
+
+* Roger D. Peng
 
 * May 2017, Johns Hopkins Bloomberg School of Public Health Dean's Lecture.
 
