@@ -6,8 +6,6 @@ title: "Publications"
 
 D'Agostino McGowan L, Peng RD, Hicks SC. "[Evaluating the Alignment of a Data Analysis between Analyst and Audience](https://arxiv.org/abs/2312.07616)." [arxiv](https://arxiv.org/abs/2312.07616)
 
-Peng RD. "[Predicting Patient No-Shows in Community Health Clinics: A Case Study in Designing a Data Analytic Product](https://arxiv.org/abs/2310.17506)." [arxiv](https://arxiv.org/abs/2310.17506)
-
 Peng RD, Hicks SC. "[Modeling Analytic Iteration Using Probabilistic Outcome Sets](https://arxiv.org/abs/2309.08494)." [arxiv](https://arxiv.org/abs/2309.08494)
 
 ## Papers
