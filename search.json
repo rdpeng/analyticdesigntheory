@@ -1,24 +1,45 @@
 [
   {
-    "objectID": "jobs.html",
-    "href": "jobs.html",
-    "title": "Jobs",
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
     "section": "",
-    "text": "We have openings for Postdoctoral Fellowships in Data Science at UT Austin. This position provides candidates with the opportunity to conduct research in the theory of data analytic practice and to expand the training of data analysis to large audiences. The goal for this position is to contribute to a foundation of scholarship around data analysis and to translate our research into scalable data science education materials. Projects can cover\n\nResearch: Empirical, methodological, theoretical, or computational investigations into data analysis strategies, techniques, and practice.\nContent Development: Building online and in-person course materials, books, video and audio materials, case studies, and potentially other short-form content for the purpose of wide distribution.\n\nCandidates will join a collegial and interdisciplinary team. Opportunities are also available to interact with a network of collaborators at the Johns Hopkins Data Science Lab, the Open Case Studies Project, the UT Center for Health and Environment: Education and Research (CHEER), and the Fred Hutchinson Cancer Research Center.\n\n\n\nPhD in statistics, biostatistics, computer science, genomics, bioinformatics, or related data intensive field\nExperience programming and doing data analysis with R\nExperience teaching hands-on data analysis skills in R (e.g. classroom, workshop, tutorial)\nExcellent communication and task management skills\nExperience writing papers for peer-reviewed publication\n\n\n\n\nApplicants should submit a cover letter describing their interest in the position, including a brief description of an experience teaching data analysis or any other relevant curriculum. Applicants should also submit a CV and are encouraged to include a link to their GitHub profile, if available. Please e-mail applications to Dr. Roger Peng (roger.peng AT austin.utexas.edu)."
+    "text": "D’Agostino McGowan L, Peng RD, Hicks SC. “Evaluating the Alignment of a Data Analysis between Analyst and Audience.” arxiv\nPeng RD, Hicks SC. “Modeling Analytic Iteration Using Probabilistic Outcome Sets.” arxiv"
   },
   {
-    "objectID": "jobs.html#postdoctoral-fellowship-in-data-science-at-ut-austin",
-    "href": "jobs.html#postdoctoral-fellowship-in-data-science-at-ut-austin",
-    "title": "Jobs",
+    "objectID": "publications.html#preprints",
+    "href": "publications.html#preprints",
+    "title": "Publications",
     "section": "",
-    "text": "We have openings for Postdoctoral Fellowships in Data Science at UT Austin. This position provides candidates with the opportunity to conduct research in the theory of data analytic practice and to expand the training of data analysis to large audiences. The goal for this position is to contribute to a foundation of scholarship around data analysis and to translate our research into scalable data science education materials. Projects can cover\n\nResearch: Empirical, methodological, theoretical, or computational investigations into data analysis strategies, techniques, and practice.\nContent Development: Building online and in-person course materials, books, video and audio materials, case studies, and potentially other short-form content for the purpose of wide distribution.\n\nCandidates will join a collegial and interdisciplinary team. Opportunities are also available to interact with a network of collaborators at the Johns Hopkins Data Science Lab, the Open Case Studies Project, the UT Center for Health and Environment: Education and Research (CHEER), and the Fred Hutchinson Cancer Research Center.\n\n\n\nPhD in statistics, biostatistics, computer science, genomics, bioinformatics, or related data intensive field\nExperience programming and doing data analysis with R\nExperience teaching hands-on data analysis skills in R (e.g. classroom, workshop, tutorial)\nExcellent communication and task management skills\nExperience writing papers for peer-reviewed publication\n\n\n\n\nApplicants should submit a cover letter describing their interest in the position, including a brief description of an experience teaching data analysis or any other relevant curriculum. Applicants should also submit a CV and are encouraged to include a link to their GitHub profile, if available. Please e-mail applications to Dr. Roger Peng (roger.peng AT austin.utexas.edu)."
+    "text": "D’Agostino McGowan L, Peng RD, Hicks SC. “Evaluating the Alignment of a Data Analysis between Analyst and Audience.” arxiv\nPeng RD, Hicks SC. “Modeling Analytic Iteration Using Probabilistic Outcome Sets.” arxiv"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Analytic Design Theory",
-    "section": "",
-    "text": "Analytic design theory is the study of how data analyses are conducted in the real world. Aspects of this include characterizing variation between analyses, developing measures of quality, success, and usability, modeling the analytic process, and considering what makes data analyses more or less trustworthy. Analytic design theory is driven by the need to scale the training of data analysis and to continuously improve the quality of analyses.\nYou can learn more about different aspects of analytic design theory in these recent publications and talks."
+    "objectID": "publications.html#papers",
+    "href": "publications.html#papers",
+    "title": "Publications",
+    "section": "Papers",
+    "text": "Papers\nD’Agostino McGowan L, Hicks SC, Peng RD (2022). “Design Principles for Data Analysis,” Journal of Computational and Graphical Statistics.\n\nWinner of 2023 Young Investigator Award from the ASA Section on Teaching of Statistics in the Health Sciences\n\nPeng RD, Parker HS (2022). “Perspective on Data Science,” Annual Review of Statistics and Its Application. arxiv\nPeng RD, Chen A, Bridgeford E, Leek JT, Hicks SC (2021). “Diagnosing Data Analytic Problems in the Classroom,” Journal of Statistics and Data Science Education.\nPeng RD, Hicks SC (2021) “Reproducible Research: A Retrospective,” Annual Review of Statistics and Its Application. arxiv"
+  },
+  {
+    "objectID": "publications.html#books",
+    "href": "publications.html#books",
+    "title": "Publications",
+    "section": "Books",
+    "text": "Books\nTiffany Timbers, Trevor Campbell, and Melissa Lee (2023) Data Science: A First Introduction, Chapman & Hall/CRC Press.\nRoger D. Peng, Elizabeth C. Matsui (2018) The Art of Data Science.\nCarrie Wright, Shannon E. Ellis, Stephanie C. Hicks and Roger D. Peng (2021). Tidyverse Skills for Data Science."
+  },
+  {
+    "objectID": "publications.html#blog-posts",
+    "href": "publications.html#blog-posts",
+    "title": "Publications",
+    "section": "Blog Posts",
+    "text": "Blog Posts\nTukey, Design Thinking, and Better Questions\nThe Tentpoles of Data Science\nHow Data Scientists Think - A Case Study\nDivergent and Convergent Phases of Data Analysis\nWhat can we learn from data analysis failures?\nWhat is a Successful Data Analysis?\nThe Role of Theory in Data Analysis"
+  },
+  {
+    "objectID": "talks.html#past",
+    "href": "talks.html#past",
+    "title": "Talks and Presentations",
+    "section": "Past",
+    "text": "Past\nAnalytic Fluency: What It Is, Who Has It, And How It Is Learned\n\nMatthew Vanaman\nJoint Statistical Meetings, Portland, Oregon\nAugust 8, 2024\n\nModeling Analytic Iteration with Probabilistic Outcome Sets\n\nStephanie Hicks\nJoint Statistical Meetings, Portland, Oregon\nAugust 8, 2024\n\nEvaluating the Alignment of a Data Analysis between Analyst and Audience\n\nLucy D’Agostino McGowan\nJoint Statistical Meetings, Portland, Oregon\nAugust 8, 2024\n\nPresenting the Analytic Process: Beyond Reproducibility\n\nRoger D. Peng\nJoint Statistical Meetings, Portland, Oregon\nAugust 4, 2024\n\nPrinciples for Designing Complex Data Analyses\n\nRoger D. Peng\nUT Health Houston Department of Biostatistics and Data Science\nFebruary 20, 2024, 12:00pm CST\n\nPrinciples for Designing Complex Data Analyses\n\nRoger D. Peng\nVanderbilt University Department of Biostatistics\nNovember 1, 2023, 1:30pm CDT\n\nDesign Principles for Data Analysis\n\nLucy D’Agostino McGowan\nASA Section on Teaching Statistics in the Health Sciences\nOctober 30, 2023, 3:30pm EDT (Online)\n\nPrinciples for Designing Complex Data Analyses\n\nRoger D. Peng\nBoston University School of Public Health Population Health Data Science Program\n\nPractical Principles for Data Analysis Design\n\nLucy D’Agostino McGowan\nFebruary 2023, University of Massachusetts, Amherst Department of Biostatistics and Epidemiology\n\nSystematic Approaches to Diagnosing Data Analytic Problems\n\nRoger D. Peng\nOctober 2022, Department of Statistics, Rice University\n\nReproducible Research: What Have We Learned in 20 Years?\n\nRoger D. Peng\nMay 2021, Beuhler-Martin Keynote Lecture, University of Minnesota Institute for Research in Statistics and its Applications\n\nThe Past and Future of Data Analysis\n\nRoger D. Peng\nMay 2017, Johns Hopkins Bloomberg School of Public Health Dean’s Lecture."
   },
   {
     "objectID": "faq.html",
@@ -54,6 +75,27 @@
     "title": "Frequently Asked Questions",
     "section": "How does analytic iteration apply to the analysis of clinical trials?",
     "text": "How does analytic iteration apply to the analysis of clinical trials?\nData from clinical trials are often analyzed using a highly-specific and detailed analytic protocol that is written even before the data are collected. Such an approach to pre-specification can guard against the possibility of p-hacking or the selective presentation of results. In many clinical trials, once the data are collected, the pre-specified analysis protocol must be executed without deviation. In this scenario, there is no real analytic iteration; there is only a single analytic “step”. While that step may be complicated and statistically sophisticated, there are no intermediate results for the analyst to look at and consider. Therefore, there are no decisions for the analyst to make in the execution of the clinical trial analysis protocol. Indeed, that is often the point of pre-specifying the analysis, so that the analyst is not tempted to revise the analysis on the fly to orient it towards a preferred outcome. However, once the analysis is done and the results are in hand, the analyst may want to explore the data more to explain the observed results or to gain some insight. This typically does not involve changing the original analysis protocol. Rather, this next iteration of the analysis would add to what was already produced in order to provide clearer explanation or interpretation to the results."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Analytic Design Theory",
+    "section": "",
+    "text": "Analytic design theory is the study of how data analyses are conducted in the real world. Aspects of this include characterizing variation between analyses, developing measures of quality, success, and usability, modeling the analytic process, and considering what makes data analyses more or less trustworthy. Analytic design theory is driven by the need to scale the training of data analysis and to continuously improve the quality of analyses.\nYou can learn more about different aspects of analytic design theory in these recent publications and talks."
+  },
+  {
+    "objectID": "jobs.html",
+    "href": "jobs.html",
+    "title": "Jobs",
+    "section": "",
+    "text": "We have openings for Postdoctoral Fellowships in Data Science at UT Austin. This position provides candidates with the opportunity to conduct research in the theory of data analytic practice and to expand the training of data analysis to large audiences. The goal for this position is to contribute to a foundation of scholarship around data analysis and to translate our research into scalable data science education materials. Projects can cover\n\nResearch: Empirical, methodological, theoretical, or computational investigations into data analysis strategies, techniques, and practice.\nContent Development: Building online and in-person course materials, books, video and audio materials, case studies, and potentially other short-form content for the purpose of wide distribution.\n\nCandidates will join a collegial and interdisciplinary team. Opportunities are also available to interact with a network of collaborators at the Johns Hopkins Data Science Lab, the Open Case Studies Project, the UT Center for Health and Environment: Education and Research (CHEER), and the Fred Hutchinson Cancer Research Center.\n\n\n\nPhD in statistics, biostatistics, computer science, genomics, bioinformatics, or related data intensive field\nExperience programming and doing data analysis with R\nExperience teaching hands-on data analysis skills in R (e.g. classroom, workshop, tutorial)\nExcellent communication and task management skills\nExperience writing papers for peer-reviewed publication\n\n\n\n\nApplicants should submit a cover letter describing their interest in the position, including a brief description of an experience teaching data analysis or any other relevant curriculum. Applicants should also submit a CV and are encouraged to include a link to their GitHub profile, if available. Please e-mail applications to Dr. Roger Peng (roger.peng AT austin.utexas.edu)."
+  },
+  {
+    "objectID": "jobs.html#postdoctoral-fellowship-in-data-science-at-ut-austin",
+    "href": "jobs.html#postdoctoral-fellowship-in-data-science-at-ut-austin",
+    "title": "Jobs",
+    "section": "",
+    "text": "We have openings for Postdoctoral Fellowships in Data Science at UT Austin. This position provides candidates with the opportunity to conduct research in the theory of data analytic practice and to expand the training of data analysis to large audiences. The goal for this position is to contribute to a foundation of scholarship around data analysis and to translate our research into scalable data science education materials. Projects can cover\n\nResearch: Empirical, methodological, theoretical, or computational investigations into data analysis strategies, techniques, and practice.\nContent Development: Building online and in-person course materials, books, video and audio materials, case studies, and potentially other short-form content for the purpose of wide distribution.\n\nCandidates will join a collegial and interdisciplinary team. Opportunities are also available to interact with a network of collaborators at the Johns Hopkins Data Science Lab, the Open Case Studies Project, the UT Center for Health and Environment: Education and Research (CHEER), and the Fred Hutchinson Cancer Research Center.\n\n\n\nPhD in statistics, biostatistics, computer science, genomics, bioinformatics, or related data intensive field\nExperience programming and doing data analysis with R\nExperience teaching hands-on data analysis skills in R (e.g. classroom, workshop, tutorial)\nExcellent communication and task management skills\nExperience writing papers for peer-reviewed publication\n\n\n\n\nApplicants should submit a cover letter describing their interest in the position, including a brief description of an experience teaching data analysis or any other relevant curriculum. Applicants should also submit a CV and are encouraged to include a link to their GitHub profile, if available. Please e-mail applications to Dr. Roger Peng (roger.peng AT austin.utexas.edu)."
   },
   {
     "objectID": "research.html",
@@ -103,48 +145,6 @@
     "title": "Contributors",
     "section": "Postdoctoral Fellows",
     "text": "Postdoctoral Fellows\nMatthew Vanaman is a Postdoctoral Fellow in the Department of Statistics and Data Sciences at the University of Texas, Austin. He received his PhD in Psychology from the City University of New York with a dissertation titled “Can moralization-network theory explain why people oppose harm reduction?”"
-  },
-  {
-    "objectID": "talks.html#past",
-    "href": "talks.html#past",
-    "title": "Talks and Presentations",
-    "section": "Past",
-    "text": "Past\nAnalytic Fluency: What It Is, Who Has It, And How It Is Learned\n\nMatthew Vanaman\nJoint Statistical Meetings, Portland, Oregon\nAugust 8, 2024\n\nModeling Analytic Iteration with Probabilistic Outcome Sets\n\nStephanie Hicks\nJoint Statistical Meetings, Portland, Oregon\nAugust 8, 2024\n\nEvaluating the Alignment of a Data Analysis between Analyst and Audience\n\nLucy D’Agostino McGowan\nJoint Statistical Meetings, Portland, Oregon\nAugust 8, 2024\n\nPresenting the Analytic Process: Beyond Reproducibility\n\nRoger D. Peng\nJoint Statistical Meetings, Portland, Oregon\nAugust 4, 2024\n\nPrinciples for Designing Complex Data Analyses\n\nRoger D. Peng\nUT Health Houston Department of Biostatistics and Data Science\nFebruary 20, 2024, 12:00pm CST\n\nPrinciples for Designing Complex Data Analyses\n\nRoger D. Peng\nVanderbilt University Department of Biostatistics\nNovember 1, 2023, 1:30pm CDT\n\nDesign Principles for Data Analysis\n\nLucy D’Agostino McGowan\nASA Section on Teaching Statistics in the Health Sciences\nOctober 30, 2023, 3:30pm EDT (Online)\n\nPrinciples for Designing Complex Data Analyses\n\nRoger D. Peng\nBoston University School of Public Health Population Health Data Science Program\n\nPractical Principles for Data Analysis Design\n\nLucy D’Agostino McGowan\nFebruary 2023, University of Massachusetts, Amherst Department of Biostatistics and Epidemiology\n\nSystematic Approaches to Diagnosing Data Analytic Problems\n\nRoger D. Peng\nOctober 2022, Department of Statistics, Rice University\n\nReproducible Research: What Have We Learned in 20 Years?\n\nRoger D. Peng\nMay 2021, Beuhler-Martin Keynote Lecture, University of Minnesota Institute for Research in Statistics and its Applications\n\nThe Past and Future of Data Analysis\n\nRoger D. Peng\nMay 2017, Johns Hopkins Bloomberg School of Public Health Dean’s Lecture."
-  },
-  {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "D’Agostino McGowan L, Peng RD, Hicks SC. “Evaluating the Alignment of a Data Analysis between Analyst and Audience.” arxiv\nPeng RD. “Predicting Patient No-Shows in Community Health Clinics: A Case Study in Designing a Data Analytic Product.” arxiv\nPeng RD, Hicks SC. “Modeling Analytic Iteration Using Probabilistic Outcome Sets.” arxiv"
-  },
-  {
-    "objectID": "publications.html#preprints",
-    "href": "publications.html#preprints",
-    "title": "Publications",
-    "section": "",
-    "text": "D’Agostino McGowan L, Peng RD, Hicks SC. “Evaluating the Alignment of a Data Analysis between Analyst and Audience.” arxiv\nPeng RD. “Predicting Patient No-Shows in Community Health Clinics: A Case Study in Designing a Data Analytic Product.” arxiv\nPeng RD, Hicks SC. “Modeling Analytic Iteration Using Probabilistic Outcome Sets.” arxiv"
-  },
-  {
-    "objectID": "publications.html#papers",
-    "href": "publications.html#papers",
-    "title": "Publications",
-    "section": "Papers",
-    "text": "Papers\nD’Agostino McGowan L, Hicks SC, Peng RD (2022). “Design Principles for Data Analysis,” Journal of Computational and Graphical Statistics.\n\nWinner of 2023 Young Investigator Award from the ASA Section on Teaching of Statistics in the Health Sciences\n\nPeng RD, Parker HS (2022). “Perspective on Data Science,” Annual Review of Statistics and Its Application. arxiv\nPeng RD, Chen A, Bridgeford E, Leek JT, Hicks SC (2021). “Diagnosing Data Analytic Problems in the Classroom,” Journal of Statistics and Data Science Education.\nPeng RD, Hicks SC (2021) “Reproducible Research: A Retrospective,” Annual Review of Statistics and Its Application. arxiv"
-  },
-  {
-    "objectID": "publications.html#books",
-    "href": "publications.html#books",
-    "title": "Publications",
-    "section": "Books",
-    "text": "Books\nTiffany Timbers, Trevor Campbell, and Melissa Lee (2023) Data Science: A First Introduction, Chapman & Hall/CRC Press.\nRoger D. Peng, Elizabeth C. Matsui (2018) The Art of Data Science.\nCarrie Wright, Shannon E. Ellis, Stephanie C. Hicks and Roger D. Peng (2021). Tidyverse Skills for Data Science."
-  },
-  {
-    "objectID": "publications.html#blog-posts",
-    "href": "publications.html#blog-posts",
-    "title": "Publications",
-    "section": "Blog Posts",
-    "text": "Blog Posts\nTukey, Design Thinking, and Better Questions\nThe Tentpoles of Data Science\nHow Data Scientists Think - A Case Study\nDivergent and Convergent Phases of Data Analysis\nWhat can we learn from data analysis failures?\nWhat is a Successful Data Analysis?\nThe Role of Theory in Data Analysis"
   },
   {
     "objectID": "about.html",
