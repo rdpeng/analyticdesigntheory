@@ -11,6 +11,23 @@ editor: source
 
 ## Past
 
+Building Trustworthy Data Analyses
+
+* Roger D. Peng
+
+* Department of Statistics, George Mason University
+
+* October 25, 2024
+
+Analytic Fluency: What It Is, Who Has It, And How It Is Learned
+
+* Matthew Vanaman
+
+* Department of Statistics and Data Sciences, University of Texas at Austin
+
+*  September 13, 2024
+
+
 Analytic Fluency: What It Is, Who Has It, And How It Is Learned
 
 * Matthew Vanaman
