@@ -7,10 +7,6 @@ editor: source
 ## Recent & Upcoming
 
 
-
-
-## Past
-
 [Building Trustworthy Data Analyses](https://drive.google.com/file/d/1MOS87XLkuvx2-ErfzJ4q7TvG5BmFxgbD/view?usp=share_link)
 
 * Roger D. Peng
@@ -18,6 +14,10 @@ editor: source
 * Department of Statistics, George Mason University
 
 * October 25, 2024
+
+
+
+## Past
 
 Analytic Fluency: What It Is, Who Has It, And How It Is Learned
 
