@@ -14,6 +14,8 @@ Peng RD, Hicks SC. "[Modeling Analytic Iteration Using Probabilistic Outcome Set
 
 ## Papers
 
+Peng RD (2025), "[Tooling for Reproducible Research: Considerations for the Past and Future of Data Analysis](https://doi.org/10.17713/ajs.v54i3.2052)," *Austrian Journal of Statistics*.
+
 D'Agostino McGowan L, Hicks SC, Peng RD (2022). "[Design Principles for Data Analysis](https://www.tandfonline.com/doi/full/10.1080/10618600.2022.2104290)," *Journal of Computational and Graphical Statistics*.
 
 -   Winner of 2023 [Young Investigator Award](https://tshsblog.wixsite.com/main/single-post/2023-tshs-section-awards) from the ASA Section on Teaching of Statistics in the Health Sciences
