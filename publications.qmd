@@ -6,7 +6,7 @@ title: "Publications"
 
 Zhang HS, Peng RD. "[Inside Out: Externalizing Assumptions in Data Analysis as Validation Checks](https://arxiv.org/abs/2501.04296)." [arxiv](https://arxiv.org/abs/2501.04296)
 
-Vanaman ME, Peng RD. "[The Psychology of Data Analysis: Toward A Person-Centered Approach To The Empirical Study Of Data Analysis](https://osf.io/preprints/psyarxiv/kmzcu)." [psyarxiv](https://osf.io/preprints/psyarxiv/kmzcu)
+Vanaman ME, Peng RD. "[The Analytic Fluency Scale: Measuring the Skill of a Data Analyst](https://osf.io/preprints/psyarxiv/zpkhd_v1)." [psyarxiv](https://osf.io/preprints/psyarxiv/zpkhd_v1)
 
 D'Agostino McGowan L, Peng RD, Hicks SC. "[Evaluating the Alignment of a Data Analysis between Analyst and Audience](https://arxiv.org/abs/2312.07616)." [arxiv](https://arxiv.org/abs/2312.07616)
 
