@@ -8,11 +8,11 @@ Zhang HS, Peng RD. "[Inside Out: Externalizing Assumptions in Data Analysis as V
 
 Vanaman ME, Peng RD. "[The Analytic Fluency Scale: Measuring the Skill of a Data Analyst](https://osf.io/preprints/psyarxiv/zpkhd_v1)." [psyarxiv](https://osf.io/preprints/psyarxiv/zpkhd_v1)
 
-D'Agostino McGowan L, Peng RD, Hicks SC. "[Evaluating the Alignment of a Data Analysis between Analyst and Audience](https://arxiv.org/abs/2312.07616)." [arxiv](https://arxiv.org/abs/2312.07616)
-
 Peng RD, Hicks SC. "[Modeling Analytic Iteration Using Probabilistic Outcome Sets](https://arxiv.org/abs/2309.08494)." [arxiv](https://arxiv.org/abs/2309.08494)
 
 ## Papers
+
+D'Agostino McGowan L, Peng RD, Hicks SC. "[Evaluating the Alignment of a Data Analysis between Analyst and Audience](https://arxiv.org/abs/2312.07616)," *Journal of Data Science*. [arxiv](https://arxiv.org/abs/2312.07616)
 
 Peng RD (2025), "[Tooling for Reproducible Research: Considerations for the Past and Future of Data Analysis](https://doi.org/10.17713/ajs.v54i3.2052)," *Austrian Journal of Statistics*.
 
