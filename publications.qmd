@@ -12,7 +12,7 @@ Peng RD, Hicks SC. "[Modeling Analytic Iteration Using Probabilistic Outcome Set
 
 ## Papers
 
-D'Agostino McGowan L, Peng RD, Hicks SC. "[Evaluating the Alignment of a Data Analysis between Analyst and Audience](https://arxiv.org/abs/2312.07616)," *Journal of Data Science*. [arxiv](https://arxiv.org/abs/2312.07616)
+D'Agostino McGowan L, Peng RD, Hicks SC. "[Quantifying the Alignment of a Data Analysis between Analyst and Audience](https://jds-online.org/journal/JDS/article/1437/info)," *Journal of Data Science*.
 
 Peng RD (2025), "[Tooling for Reproducible Research: Considerations for the Past and Future of Data Analysis](https://doi.org/10.17713/ajs.v54i3.2052)," *Austrian Journal of Statistics*.
 
