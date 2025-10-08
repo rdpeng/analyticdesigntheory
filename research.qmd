@@ -2,50 +2,40 @@
 title: "Research"
 ---
 
-
 ## Data Analysis and Design
 
-The data revolution has led to an increased interest in the practice of data analysis. While much has been written about statistical thinking, a complementary form of thinking that appears in the practice of data analysis is design thinking -- the problem-solving process to understand the people for whom a solution is being designed. For a given problem, there can be significant or subtle differences in how a data analyst (or producer of a data analysis) constructs, creates, or designs a data analysis, including differences in the choice of methods, tooling, and workflow. These choices can affect the data analysis products themselves and the experience of the consumer of the data analysis. Therefore, the role of a producer can be thought of as designing the data analysis with a set of design principles. 
+The data revolution has led to an increased interest in the practice of data analysis. While much has been written about statistical thinking, a complementary form of thinking that appears in the practice of data analysis is design thinking -- the problem-solving process to understand the people for whom a solution is being designed. For a given problem, there can be significant or subtle differences in how a data analyst (or producer of a data analysis) constructs, creates, or designs a data analysis, including differences in the choice of methods, tooling, and workflow. These choices can affect the data analysis products themselves and the experience of the consumer of the data analysis. Therefore, the role of a producer can be thought of as designing the data analysis with a set of design principles.
 
 Some questions we hope to address in this work are:
 
-* What does it mean to "design" a data analysis?
+-   What does it mean to "design" a data analysis?
 
-* What are the factors that can cause data analyses to be different from one another?
+-   What are the factors that can cause data analyses to be different from one another?
 
-* What does it mean for a data analysis to be successful?
+-   What does it mean for a data analysis to be successful?
 
-* How do we know when a data analysis is complete or sufficient?
+-   How do we know when a data analysis is complete or sufficient?
 
-* How does the consumer of a data analysis contribute to its design and development?
-
-
+-   How does the consumer of a data analysis contribute to its design and development?
 
 ## Modeling Analytic Iteration
 
-In 1977, John Tukey described how in exploratory data analysis, data analysts use tools, such as data visualizations, to separate their expectations from what they observe. In contrast to statistical theory, a unique aspect of data analysis is that a data analyst must make decisions in response to observing the data or output from applying a statistical method to the data. However, there is little formal guidance for how to make these data analytic decisions as statistical theory generally omits a discussion of who is using these statistical methods. 
+In 1977, John Tukey described how in exploratory data analysis, data analysts use tools, such as data visualizations, to separate their expectations from what they observe. In contrast to statistical theory, a unique aspect of data analysis is that a data analyst must make decisions in response to observing the data or output from applying a statistical method to the data. However, there is little formal guidance for how to make these data analytic decisions as statistical theory generally omits a discussion of who is using these statistical methods.
 
 Some questions we hope to address in this work are:
 
-* How do we decide what tools to apply in a data analysis step?
+-   How do we decide what tools to apply in a data analysis step?
 
-* What tools can we develop to make data analysis easier?
+-   What tools can we develop to make data analysis easier?
 
-* How can we improve and scale the teaching of data analysis?
-
+-   How can we improve and scale the teaching of data analysis?
 
 ## Trust and Reliability in Data Analysis
 
-
 Some questions we hope to address in this work are:
 
-* Why is it important to trust a data analysis?
+-   Why is it important to trust a data analysis?
 
-* What aspects of a data analysis contributes to it being trustworthy?
+-   What aspects of a data analysis contributes to it being trustworthy?
 
-* What are the characteristics of a trustworthy data analyst?
-
-
-
-
-
+-   What are the characteristics of a trustworthy data analyst?
