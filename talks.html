@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.32">
+<meta name="generator" content="quarto-1.8.25">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -32,14 +32,15 @@ ul.task-list li input[type="checkbox"] {
 <meta name="quarto:offset" content="./">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-46cbb8347319fcb2eb8c4f6a8afc9e17.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-fa6ebe1abc24c69c1ddb9a141d0fa116.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -79,6 +80,8 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    </a>
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">Analytic Design Theory</span>
     </a>
@@ -169,15 +172,21 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="recent-upcoming" class="level2">
 <h2 class="anchored" data-anchor-id="recent-upcoming">Recent &amp; Upcoming</h2>
+<p>Building Data Analysis Proofs</p>
+<ul>
+<li><p>Roger D. Peng</p></li>
+<li><p>Department of Statistics, Indiana University</p></li>
+<li><p>October 2025</p></li>
+</ul>
+</section>
+<section id="past" class="level2">
+<h2 class="anchored" data-anchor-id="past">Past</h2>
 <p><a href="https://drive.google.com/file/d/1MOS87XLkuvx2-ErfzJ4q7TvG5BmFxgbD/view?usp=share_link">Building Trustworthy Data Analyses</a></p>
 <ul>
 <li><p>Roger D. Peng</p></li>
 <li><p>Department of Statistics, George Mason University</p></li>
 <li><p>October 25, 2024</p></li>
 </ul>
-</section>
-<section id="past" class="level2">
-<h2 class="anchored" data-anchor-id="past">Past</h2>
 <p>Analytic Fluency: What It Is, Who Has It, And How It Is Learned</p>
 <ul>
 <li><p>Matthew Vanaman</p></li>
@@ -307,13 +316,14 @@ ul.task-list li input[type="checkbox"] {
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
