@@ -4,19 +4,21 @@ title: "Publications"
 
 ## Preprints
 
-Zhang HS, Peng RD. "[Inside Out: Externalizing Assumptions in Data Analysis as Validation Checks](https://arxiv.org/abs/2501.04296)." [arxiv](https://arxiv.org/abs/2501.04296)
-
 Vanaman ME, Peng RD. "[The Analytic Fluency Scale: Measuring the Skill of a Data Analyst](https://osf.io/preprints/psyarxiv/zpkhd_v1)." [psyarxiv](https://osf.io/preprints/psyarxiv/zpkhd_v1)
 
 Peng RD, Hicks SC. "[Modeling Analytic Iteration Using Probabilistic Outcome Sets](https://arxiv.org/abs/2309.08494)." [arxiv](https://arxiv.org/abs/2309.08494)
 
 ## Papers
 
-D'Agostino McGowan L, Peng RD, Hicks SC. "[Quantifying the Alignment of a Data Analysis between Analyst and Audience](https://jds-online.org/journal/JDS/article/1437/info)," *Journal of Data Science*.
+Zhang HS, Peng RD. "[Inside Out: Externalizing Assumptions in Data Analysis as Validation Checks](https://arxiv.org/abs/2501.04296)," *Journal of Data Science*. [arxiv](https://arxiv.org/abs/2501.04296)
+
+Wilson A, D'Agostino McGowan L (2025). "[Design Principles for Data Analysis: A Pedagogical Framework for Balancing Analytical Priorities](https://doi.org/10.1080/09332480.2025.2560285)," *CHANCE*.
+
+D'Agostino McGowan L, Peng RD, Hicks SC (2025). "[Quantifying the Alignment of a Data Analysis between Analyst and Audience](https://doi.org/10.6339/25-JDS1189)," *Journal of Data Science*.
 
 Peng RD (2025), "[Tooling for Reproducible Research: Considerations for the Past and Future of Data Analysis](https://doi.org/10.17713/ajs.v54i3.2052)," *Austrian Journal of Statistics*.
 
-D'Agostino McGowan L, Hicks SC, Peng RD (2022). "[Design Principles for Data Analysis](https://www.tandfonline.com/doi/full/10.1080/10618600.2022.2104290)," *Journal of Computational and Graphical Statistics*.
+D'Agostino McGowan L, Hicks SC, Peng RD (2022). "[Design Principles for Data Analysis](https://doi.org/10.1080/10618600.2022.2104290)," *Journal of Computational and Graphical Statistics*.
 
 -   Winner of 2023 [Young Investigator Award](https://tshsblog.wixsite.com/main/single-post/2023-tshs-section-awards) from the ASA Section on Teaching of Statistics in the Health Sciences
 
