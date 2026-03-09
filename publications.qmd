@@ -10,7 +10,7 @@ Peng RD, Hicks SC. "[Modeling Analytic Iteration Using Probabilistic Outcome Set
 
 ## Papers
 
-Zhang HS, Peng RD. "[Inside Out: Externalizing Assumptions in Data Analysis as Validation Checks](https://arxiv.org/abs/2501.04296)," *Journal of Data Science*. [arxiv](https://arxiv.org/abs/2501.04296)
+Zhang HS, Peng RD. "[Inside Out: Externalizing Assumptions in Data Analysis as Validation Checks](https://jds-online.org/journal/JDS/article/1478/info)," *Journal of Data Science*. [arxiv](https://arxiv.org/abs/2501.04296)
 
 Wilson A, D'Agostino McGowan L (2025). "[Design Principles for Data Analysis: A Pedagogical Framework for Balancing Analytical Priorities](https://doi.org/10.1080/09332480.2025.2560285)," *CHANCE*.
 
