@@ -4,11 +4,13 @@ title: "Publications"
 
 ## Preprints
 
-Vanaman ME, Peng RD. "[The Analytic Fluency Scale: Measuring the Skill of a Data Analyst](https://osf.io/preprints/psyarxiv/zpkhd_v1)." [psyarxiv](https://osf.io/preprints/psyarxiv/zpkhd_v1)
-
 Peng RD, Hicks SC. "[Modeling Analytic Iteration Using Probabilistic Outcome Sets](https://arxiv.org/abs/2309.08494)." [arxiv](https://arxiv.org/abs/2309.08494)
 
 ## Papers
+
+Columbus A, Caffo BS, Hicks SC, Peng RD. "The End is Insight: How to Know When Data Analysis is Done," *ASA Discoveries*.
+
+Vanaman ME, Peng RD. "[The Analytic Fluency Scale: Measuring the Skill of a Data Analyst](https://track.smtpsendmail.com/9032119/c?p=pDpGe5btdjeJTPmMePU7aJKLX6SAntZqTl28ZQKD8ZVe4goTkLHA-AobGjHmBXziwLUMIis9t_mnSWpKyNBmhkWFoPOyiL3CNR8sQ84Z2wRH76gMzANxZIR_KUn6q0T82FOySM97SRU9gw4hcy-IrGt93Y_Y18mSHtneWiuqOz-crTF5Tk4Ij4H50nSQsBEIgDc9GGfjq30LPKSOwCLFFPrfWrr73FQc4dT_i9LkDbEr6NnhgjJ37YdFbASEa92s5AcLjHXu5YX5kdeJ-fvUsucQQh50XZ4gKBK9kf6eVYmBR2USVFQDySrtbQe_tvA5xoXU44hHQNwzzXJmLqpPzEe-4Oa_CvJNm7R0Q3qtsgzRADtphaugJZDqENpNZdpM)," *Collabra: Psychology*.
 
 Zhang HS, Peng RD. "[Inside Out: Externalizing Assumptions in Data Analysis as Validation Checks](https://jds-online.org/journal/JDS/article/1478/info)," *Journal of Data Science*. [arxiv](https://arxiv.org/abs/2501.04296)
 
@@ -20,7 +22,7 @@ Peng RD (2025), "[Tooling for Reproducible Research: Considerations for the Past
 
 D'Agostino McGowan L, Hicks SC, Peng RD (2022). "[Design Principles for Data Analysis](https://doi.org/10.1080/10618600.2022.2104290)," *Journal of Computational and Graphical Statistics*.
 
--   Winner of 2023 [Young Investigator Award](https://tshsblog.wixsite.com/main/single-post/2023-tshs-section-awards) from the ASA Section on Teaching of Statistics in the Health Sciences
+- Winner of 2023 [Young Investigator Award](https://tshsblog.wixsite.com/main/single-post/2023-tshs-section-awards) from the ASA Section on Teaching of Statistics in the Health Sciences
 
 Peng RD, Parker HS (2022). "[Perspective on Data Science](https://www.annualreviews.org/doi/full/10.1146/annurev-statistics-040220-013917)," *Annual Review of Statistics and Its Application*. [arxiv](https://arxiv.org/abs/2105.06324)
 
