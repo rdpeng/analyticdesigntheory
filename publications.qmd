@@ -8,6 +8,8 @@ Peng RD, Hicks SC. "[Modeling Analytic Iteration Using Probabilistic Outcome Set
 
 ## Papers
 
+Lucchesi LR, Peng RD. "A Tabular Presentation of Variable Development," *Journal of Data Science*.
+
 Columbus A, Caffo BS, Hicks SC, Peng RD. "The End is Insight: How to Know When Data Analysis is Done," *ASA Discoveries*.
 
 Vanaman ME, Peng RD. "[The Analytic Fluency Scale: Measuring the Skill of a Data Analyst](https://track.smtpsendmail.com/9032119/c?p=pDpGe5btdjeJTPmMePU7aJKLX6SAntZqTl28ZQKD8ZVe4goTkLHA-AobGjHmBXziwLUMIis9t_mnSWpKyNBmhkWFoPOyiL3CNR8sQ84Z2wRH76gMzANxZIR_KUn6q0T82FOySM97SRU9gw4hcy-IrGt93Y_Y18mSHtneWiuqOz-crTF5Tk4Ij4H50nSQsBEIgDc9GGfjq30LPKSOwCLFFPrfWrr73FQc4dT_i9LkDbEr6NnhgjJ37YdFbASEa92s5AcLjHXu5YX5kdeJ-fvUsucQQh50XZ4gKBK9kf6eVYmBR2USVFQDySrtbQe_tvA5xoXU44hHQNwzzXJmLqpPzEe-4Oa_CvJNm7R0Q3qtsgzRADtphaugJZDqENpNZdpM)," *Collabra: Psychology*.
